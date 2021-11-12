@@ -36,7 +36,7 @@ function App() {
           render={({ location }) => (
             <AnimatePresence exitBeforeEnter initial={true}>
               <Switch location={location} key={location.pathname}>
-                <Route exact path="/My_Portfolio" component={HomePage} />
+                <Route exact path="/" component={HomePage} />
                 <Route path="/My_Portfolio/resume" component={ResumePage} />
               </Switch>
             </AnimatePresence>
