@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/My_Portfolio/static/js/main.1dcee6dc.chunk.js",
-    "main.js.map": "/My_Portfolio/static/js/main.1dcee6dc.chunk.js.map",
+    "main.js": "/My_Portfolio/static/js/main.04778eb5.chunk.js",
+    "main.js.map": "/My_Portfolio/static/js/main.04778eb5.chunk.js.map",
     "runtime-main.js": "/My_Portfolio/static/js/runtime-main.d5bdabbe.js",
     "runtime-main.js.map": "/My_Portfolio/static/js/runtime-main.d5bdabbe.js.map",
     "static/js/2.f98af03f.chunk.js": "/My_Portfolio/static/js/2.f98af03f.chunk.js",
@@ -9,7 +9,7 @@
     "index.html": "/My_Portfolio/index.html",
     "static/js/2.f98af03f.chunk.js.LICENSE.txt": "/My_Portfolio/static/js/2.f98af03f.chunk.js.LICENSE.txt",
     "static/media/Aarush_Tanwar_RESUME.4d65918a.png": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.4d65918a.png",
-    "static/media/Aarush_Tanwar_RESUME.df77ce1c.pdf": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.df77ce1c.pdf",
+    "static/media/Aarush_Tanwar_RESUME.bd637b7a.pdf": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.bd637b7a.pdf",
     "static/media/css.5721a392.png": "/My_Portfolio/static/media/css.5721a392.png",
     "static/media/face.5a0d1c2f.png": "/My_Portfolio/static/media/face.5a0d1c2f.png",
     "static/media/figma.152e5532.png": "/My_Portfolio/static/media/figma.152e5532.png",
@@ -30,6 +30,6 @@
   "entrypoints": [
     "static/js/runtime-main.d5bdabbe.js",
     "static/js/2.f98af03f.chunk.js",
-    "static/js/main.1dcee6dc.chunk.js"
+    "static/js/main.04778eb5.chunk.js"
   ]
 }
