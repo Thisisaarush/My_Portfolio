@@ -64,40 +64,40 @@ const Navigation = () => {
 
   return (
     <NavigationContainer ref={NavigationRef}>
-      <HashLink smooth to='/#home'>
+      <HashLink smooth to='/My_Portfolio/#home'>
         <img className="main-logo" src={Logo} alt="aarush" />
       </HashLink>
-      <HashLink smooth to="/resume" className='mobile-resume-link'>
+      <HashLink smooth to="/My_Portfolio/resume" className='mobile-resume-link'>
         <span>Resume</span>
       </HashLink>
       <MenuContainer>
-        <HashLink smooth to="/#home">
+        <HashLink smooth to="/My_Portfolio/#home">
           <li className="home" ref={HomeRef} onClick={HomeHandler}>
             Home
           </li>
         </HashLink>
-        <HashLink smooth to="/#about">
+        <HashLink smooth to="/My_Portfolio/#about">
           <li ref={AboutRef} onClick={AboutHandler}>
             About
           </li>
         </HashLink>
-        <HashLink smooth to="/#projects">
+        <HashLink smooth to="/My_Portfolio/#projects">
           <li ref={ProjectsRef} onClick={ProjectsHandler}>
             Projects
           </li>
         </HashLink>
-        <HashLink smooth to="/#contact">
+        <HashLink smooth to="/My_Portfolio/#contact">
           <li ref={ContactRef} onClick={ContactHandler}>
             Contact
           </li>
         </HashLink>
-        <HashLink smooth to="/resume">
+        <HashLink smooth to="/My_Portfolio/resume">
           <li ref={ResumeRef} onClick={ResumeHandler}>
             Resume
           </li>
         </HashLink>
       </MenuContainer>
-      <HashLink smooth to="/#contact">
+      <HashLink smooth to="/My_Portfolio/#contact">
         <HireMe>Hire Me</HireMe>
       </HashLink>
     </NavigationContainer>
