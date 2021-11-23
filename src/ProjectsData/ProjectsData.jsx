@@ -1,11 +1,19 @@
 import GameHeaven from "../Resources/Images/game.png";
 import FaceAI from "../Resources/Images/face.png";
 import SpockRock from "../Resources/Images/rock.png";
-import Instagram from "../Resources/Images/instagram.png";
 import MathSprint from "../Resources/Images/math.png";
 import Twitter from "../Resources/Images/twitter.png";
+import ClothingStore from "../Resources/Images/clothing.png";
 
 export const ProjectsData = [
+  {
+    ProjectImage: ClothingStore,
+    ProjectName: "Clothing Store",
+    ProjectDescription:
+      "Build with React, Redux, Firebase Auth, Firebase Firestore & Stripe Payments. Implemented better state management for future project scaling. Implemented better User Experience through animations, easier navigation through website and Mobile Responsiveness.",
+    ProjectSourceCode: "https://github.com/Thisisaarush/Clothing-Store-Website",
+    ProjectLiveSite: "https://thisisaarush.github.io/Clothing-Store-Website/",
+  },
   {
     ProjectImage: GameHeaven,
     ProjectName: "Game Heaven",
@@ -29,14 +37,6 @@ export const ProjectsData = [
       "This game is based on Rock Paper Scissor with two extra elements Lizard and Spock. Users can play against A.I. or humans. There will be points for each round and a winner at the end. This project is Mobo responsive built with vanilla javascript.",
     ProjectSourceCode: "https://github.com/Thisisaarush/SpockRockGame",
     ProjectLiveSite: "https://thisisaarush.github.io/SpockRockGame/",
-  },
-  {
-    ProjectImage: Instagram,
-    ProjectName: "Instagram Mobile App",
-    ProjectDescription:
-      "This App is built with React Native for both Android and IOS. It deals with multiple users' data and showing them as posts, profiles, etc. Implemented Styled-Components Advance Themening for app scalability and micro animations for better UX.",
-    ProjectSourceCode:
-      "https://github.com/Thisisaarush/InstagramClone-ReactNative",
   },
   {
     ProjectImage: MathSprint,
