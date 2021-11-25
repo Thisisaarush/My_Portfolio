@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/My_Portfolio/static/js/main.3a0911cd.chunk.js",
-    "main.js.map": "/My_Portfolio/static/js/main.3a0911cd.chunk.js.map",
+    "main.js": "/My_Portfolio/static/js/main.7c9bf7fc.chunk.js",
+    "main.js.map": "/My_Portfolio/static/js/main.7c9bf7fc.chunk.js.map",
     "runtime-main.js": "/My_Portfolio/static/js/runtime-main.d5bdabbe.js",
     "runtime-main.js.map": "/My_Portfolio/static/js/runtime-main.d5bdabbe.js.map",
     "static/js/2.f98af03f.chunk.js": "/My_Portfolio/static/js/2.f98af03f.chunk.js",
     "static/js/2.f98af03f.chunk.js.map": "/My_Portfolio/static/js/2.f98af03f.chunk.js.map",
     "index.html": "/My_Portfolio/index.html",
     "static/js/2.f98af03f.chunk.js.LICENSE.txt": "/My_Portfolio/static/js/2.f98af03f.chunk.js.LICENSE.txt",
-    "static/media/Aarush_Tanwar_RESUME.4d65918a.png": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.4d65918a.png",
-    "static/media/Aarush_Tanwar_RESUME.bd637b7a.pdf": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.bd637b7a.pdf",
+    "static/media/Aarush_Tanwar_RESUME.1b55ab3f.png": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.1b55ab3f.png",
+    "static/media/Aarush_Tanwar_RESUME.7a7991fd.pdf": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.7a7991fd.pdf",
     "static/media/clothing.835f9813.png": "/My_Portfolio/static/media/clothing.835f9813.png",
     "static/media/css.5721a392.png": "/My_Portfolio/static/media/css.5721a392.png",
     "static/media/face.5a0d1c2f.png": "/My_Portfolio/static/media/face.5a0d1c2f.png",
@@ -30,6 +30,6 @@
   "entrypoints": [
     "static/js/runtime-main.d5bdabbe.js",
     "static/js/2.f98af03f.chunk.js",
-    "static/js/main.3a0911cd.chunk.js"
+    "static/js/main.7c9bf7fc.chunk.js"
   ]
 }
