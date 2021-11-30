@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.js": "/My_Portfolio/static/js/main.7c9bf7fc.chunk.js",
-    "main.js.map": "/My_Portfolio/static/js/main.7c9bf7fc.chunk.js.map",
+    "main.js": "/My_Portfolio/static/js/main.6e1cafdc.chunk.js",
+    "main.js.map": "/My_Portfolio/static/js/main.6e1cafdc.chunk.js.map",
     "runtime-main.js": "/My_Portfolio/static/js/runtime-main.d5bdabbe.js",
     "runtime-main.js.map": "/My_Portfolio/static/js/runtime-main.d5bdabbe.js.map",
     "static/js/2.f98af03f.chunk.js": "/My_Portfolio/static/js/2.f98af03f.chunk.js",
     "static/js/2.f98af03f.chunk.js.map": "/My_Portfolio/static/js/2.f98af03f.chunk.js.map",
     "index.html": "/My_Portfolio/index.html",
     "static/js/2.f98af03f.chunk.js.LICENSE.txt": "/My_Portfolio/static/js/2.f98af03f.chunk.js.LICENSE.txt",
-    "static/media/Aarush_Tanwar_RESUME.1b55ab3f.png": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.1b55ab3f.png",
-    "static/media/Aarush_Tanwar_RESUME.7a7991fd.pdf": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.7a7991fd.pdf",
+    "static/media/Aarush_Tanwar_RESUME.1082bc1e.png": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.1082bc1e.png",
+    "static/media/Aarush_Tanwar_RESUME.a0e1ab84.pdf": "/My_Portfolio/static/media/Aarush_Tanwar_RESUME.a0e1ab84.pdf",
     "static/media/clothing.835f9813.png": "/My_Portfolio/static/media/clothing.835f9813.png",
     "static/media/css.5721a392.png": "/My_Portfolio/static/media/css.5721a392.png",
     "static/media/face.5a0d1c2f.png": "/My_Portfolio/static/media/face.5a0d1c2f.png",
     "static/media/figma.152e5532.png": "/My_Portfolio/static/media/figma.152e5532.png",
+    "static/media/food.70f8b98e.png": "/My_Portfolio/static/media/food.70f8b98e.png",
     "static/media/game.c5cce56e.png": "/My_Portfolio/static/media/game.c5cce56e.png",
     "static/media/hi.b027c2d6.png": "/My_Portfolio/static/media/hi.b027c2d6.png",
     "static/media/math.9c5b8a22.png": "/My_Portfolio/static/media/math.9c5b8a22.png",
@@ -23,13 +24,12 @@
     "static/media/profile.5732493d.png": "/My_Portfolio/static/media/profile.5732493d.png",
     "static/media/projects.6fb6fd55.png": "/My_Portfolio/static/media/projects.6fb6fd55.png",
     "static/media/react.7aa3e743.png": "/My_Portfolio/static/media/react.7aa3e743.png",
-    "static/media/rock.03ebd616.png": "/My_Portfolio/static/media/rock.03ebd616.png",
     "static/media/thumbsup.b95f9264.png": "/My_Portfolio/static/media/thumbsup.b95f9264.png",
     "static/media/twitter.c9002248.png": "/My_Portfolio/static/media/twitter.c9002248.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d5bdabbe.js",
     "static/js/2.f98af03f.chunk.js",
-    "static/js/main.7c9bf7fc.chunk.js"
+    "static/js/main.6e1cafdc.chunk.js"
   ]
 }
