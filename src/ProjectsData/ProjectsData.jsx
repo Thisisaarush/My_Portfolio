@@ -1,9 +1,9 @@
 import GameHeaven from "../Resources/Images/game.png";
 import FaceAI from "../Resources/Images/face.png";
-import SpockRock from "../Resources/Images/rock.png";
 import MathSprint from "../Resources/Images/math.png";
 import Twitter from "../Resources/Images/twitter.png";
 import ClothingStore from "../Resources/Images/clothing.png";
+import Food from "../Resources/Images/food.png";
 
 export const ProjectsData = [
   {
@@ -13,6 +13,14 @@ export const ProjectsData = [
       "Build with React, Redux, Firebase Auth, Firebase Firestore & Stripe Payments. Implemented better state management for future project scaling. Implemented better User Experience through animations, easier navigation through website and Mobile Responsiveness.",
     ProjectSourceCode: "https://github.com/Thisisaarush/Clothing-Store-Website",
     ProjectLiveSite: "https://thisisaarush.github.io/Clothing-Store-Website/",
+  },
+  {
+    ProjectImage: Food,
+    ProjectName: "Food Delivery App",
+    ProjectDescription:
+      "Mobile App built using React Native with Expo. Integrated Maps foreasier findings of user favorite restaurants. Animations for better userexperience. Implemented Searching for locations and fetching allrestaurants for the same.",
+    ProjectSourceCode: "https://github.com/Thisisaarush/Food-Delivery-App",
+    ProjectLiveSite: "https://expo.dev/@thisisaarush/food-delivery-app",
   },
   {
     ProjectImage: GameHeaven,
@@ -29,14 +37,6 @@ export const ProjectsData = [
       "Fetched and filtered data from 'FaceRecognition' API from Clarifai.com and build a local server with Node and express and used Postgresql for the database. Used 'bcrypt' for encryption of user passwords while registering for better security.",
     ProjectSourceCode:
       "https://github.com/Thisisaarush/CelebFaceRecognitionAiReactApp",
-  },
-  {
-    ProjectImage: SpockRock,
-    ProjectName: "Spock Rock Game",
-    ProjectDescription:
-      "This game is based on Rock Paper Scissor with two extra elements Lizard and Spock. Users can play against A.I. or humans. There will be points for each round and a winner at the end. This project is Mobo responsive built with vanilla javascript.",
-    ProjectSourceCode: "https://github.com/Thisisaarush/SpockRockGame",
-    ProjectLiveSite: "https://thisisaarush.github.io/SpockRockGame/",
   },
   {
     ProjectImage: MathSprint,
