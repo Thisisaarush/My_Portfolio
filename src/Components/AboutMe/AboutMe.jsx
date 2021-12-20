@@ -24,7 +24,7 @@ const AboutMe = () => {
           <h2 className="about-heading">About Me</h2>
           <p className="about-content">
             I’m a Professional Web & Mobile Developer with UX Design Skills. I
-            am Passanate about leveraging my diverse background to decipher
+            am Passionate about leveraging my diverse background to decipher
             challenging problems and create deligtful experience. <br />
             <br /> I develop websites using ReactJs, HTML5, CSS3, Javascript,
             Nodejs. I have top skills in using design softwares like Figma,
