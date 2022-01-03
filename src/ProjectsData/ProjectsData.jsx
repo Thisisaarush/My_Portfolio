@@ -8,7 +8,7 @@ import Food from "../Resources/Images/food.png";
 export const ProjectsData = [
   {
     ProjectImage: ClothingStore,
-    ProjectName: "Clothing Store",
+    ProjectName: "Clothing Store Website",
     ProjectDescription:
       "Build with React, Redux, Firebase Auth, Firebase Firestore & Stripe Payments. Implemented better state management for future project scaling. Implemented better User Experience through animations, easier navigation through website and Mobile Responsiveness.",
     ProjectSourceCode: "https://github.com/Thisisaarush/Clothing-Store-Website",
@@ -16,7 +16,7 @@ export const ProjectsData = [
   },
   {
     ProjectImage: Food,
-    ProjectName: "Food Delivery App",
+    ProjectName: "Restaurant Mobile App",
     ProjectDescription:
       "Mobile App built using React Native with Expo. Integrated Maps foreasier findings of user favorite restaurants. Animations for better userexperience. Implemented Searching for locations and fetching allrestaurants for the same.",
     ProjectSourceCode: "https://github.com/Thisisaarush/Food-Delivery-App",
@@ -24,7 +24,7 @@ export const ProjectsData = [
   },
   {
     ProjectImage: GameHeaven,
-    ProjectName: "Game Heaven",
+    ProjectName: "Gaming Heaven Website",
     ProjectDescription:
       "Get to know about top Upcoming, Trending, and Most Popular Games. This website will auto-update for future game data. Get to know everything about your favorite games coming on any platform. Worked with multiple API requests to get games data and animations for better UX.",
     ProjectSourceCode: "https://github.com/Thisisaarush/GameHeaven",

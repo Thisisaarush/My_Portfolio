@@ -2,6 +2,7 @@ export const Theme = {
   // fonts
   PrimaryFont: "Open Sans",
   SecondaryFont: "Montserrat",
+  DesignFont: "Expletus Sans",
 
   // font-weight
   FontWeightThin: "100",
@@ -51,5 +52,4 @@ export const Theme = {
   BorderRadiusLarge: "20px",
   BorderRadiusXL: "40px",
   BorderRadiusRound: "50%",
-
 };

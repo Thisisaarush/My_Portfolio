@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 // styled components
 export const ProjectBossContainer = styled.div`
@@ -14,10 +14,10 @@ export const ProjectContainer = styled.div`
   position: relative;
 
   .project-model {
-    width: 800px;
+    width: 600px;
     position: absolute;
-    top: -200px;
-    left: 3%;
+    top: -100px;
+    left: 13%;
     user-select: none;
   }
 
@@ -85,16 +85,18 @@ export const ProjectData = styled.div`
     font-size: ${(props) => props.theme.FontSizeSmall};
     margin-bottom: ${(props) => props.theme.MarginXL};
     letter-spacing: 0.5px;
+    line-height: 1.5rem;
   }
   .source-code {
     background-color: ${(props) => props.theme.PrimaryColor};
-    padding: ${(props) => props.theme.PaddingRegular} ${(props) => props.theme.PaddingMedium};
+    padding: ${(props) => props.theme.PaddingRegular}
+      ${(props) => props.theme.PaddingMedium};
     border-radius: ${(props) => props.theme.BorderRadiusMedium};
     color: white;
     transition: all 0.2s ease-out;
 
     &:hover {
-      background-color: ${props => props.theme.PrimaryColorDark};
+      background-color: ${(props) => props.theme.PrimaryColorDark};
     }
   }
   .live-site {
@@ -105,19 +107,17 @@ export const ProjectData = styled.div`
     transition: all 0.3s ease-out;
 
     &:hover {
-      background-color: ${props => props.theme.PrimaryColorDark};
-      border: 2px solid ${props => props.theme.PrimaryColorDark};
+      background-color: ${(props) => props.theme.PrimaryColorDark};
+      border: 2px solid ${(props) => props.theme.PrimaryColorDark};
       color: white;
     }
   }
 
   @media screen and (max-width: 600px) {
-   
     .project-title {
       font-size: 20px;
     }
     .source-code {
-
     }
   }
 `;

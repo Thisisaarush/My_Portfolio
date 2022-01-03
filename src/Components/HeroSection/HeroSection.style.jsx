@@ -235,7 +235,7 @@ export const TechnologyContainer = styled(motion.div)`
 `;
 export const SocialContainer = styled.div`
   position: absolute;
-  bottom: 150px;
+  bottom: 100px;
   left: 180px;
   display: flex;
   flex-direction: column;
@@ -243,7 +243,7 @@ export const SocialContainer = styled.div`
   align-items: center;
 
   .social-icon {
-    width: 50px;
+    width: 45px;
     padding: 0.4rem;
     border: 1px solid #d8d8d8;
     border-radius: ${(props) => props.theme.BorderRadiusRound};

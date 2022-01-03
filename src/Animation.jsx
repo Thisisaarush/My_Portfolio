@@ -18,12 +18,12 @@ export const PageAnimation = {
 
 export const HeroAnimation = {
   hidden: {
-    scale: 1.4,
+    scale: 1.3,
   },
   show: {
     scale: 1,
     transition: {
-      duration: 0.35,
+      duration: 0.5,
       when: "beforeChildren",
       staggerChildren: 0.25,
     },

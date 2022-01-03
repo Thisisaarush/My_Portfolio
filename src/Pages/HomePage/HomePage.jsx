@@ -10,6 +10,7 @@ import AboutMe from "../../Components/AboutMe/AboutMe";
 import WorkFlow from "../../Components/WorkFlow/WorkFlow";
 import Project from "../../Components/Project/Project";
 import Contact from "../../Components/Contact/Contact";
+import DesignProjects from "../../Components/DesignProjects/DesignProjects.component";
 
 const HomePage = () => {
   return (
@@ -18,6 +19,7 @@ const HomePage = () => {
       <AboutMe />
       <WorkFlow />
       <Project />
+      <DesignProjects />
       <Contact />
     </motion.div>
   );

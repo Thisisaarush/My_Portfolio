@@ -16,15 +16,15 @@ export const AboutMeContainer = styled.div`
   overflow: hidden;
   margin-bottom: 7rem;
   margin-top: 4rem;
-  box-shadow: 2px 4px 12px rgba(0 0 0 / 10% );
+  box-shadow: 2px 4px 12px rgba(0 0 0 / 10%);
   transition: all 0.3s ease-in-out;
-  
+
   &:hover {
-    box-shadow: 2px 4px 12px rgba(0 0 0 / 20% );
+    box-shadow: 2px 4px 12px rgba(0 0 0 / 20%);
   }
 
   .profile-image {
-    width: 400px;
+    width: 440px;
     height: 100%;
     user-select: none;
   }
@@ -58,16 +58,17 @@ export const AboutContent = styled.div`
     color: ${(props) => props.theme.PrimaryColorDark};
     font-family: ${(props) => props.theme.SecondaryFont};
     margin-bottom: ${(props) => props.theme.MarginRegular};
-    font-size: ${props => props.theme.FontSizeLarge};
+    font-size: ${(props) => props.theme.FontSizeLarge};
   }
   .about-content {
     padding-right: ${(props) => props.theme.PaddingLarge};
     letter-spacing: 0.4px;
+    line-height: 1.5rem;
   }
 
   @media screen and (max-width: 600px) {
     width: 90%;
-    padding: 2rem ${props => props.theme.PaddingSmall};
+    padding: 2rem ${(props) => props.theme.PaddingSmall};
 
     .about-content {
       padding-right: 0;

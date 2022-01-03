@@ -30,6 +30,8 @@ import FigmaIcon from "../../Resources/Icons/figma.png";
 import GithubIcon from "../../Resources/Icons/github.png";
 import LinkedinIcon from "../../Resources/Icons/linkedin.png";
 import TwitterIcon from "../../Resources/Icons/twitter.png";
+import InstagramIcon from "../../Resources/Icons/instagram.png";
+import BehanceIcon from "../../Resources/Icons/behance.png";
 
 // blank space component
 import BlankSpace from "../BlankSpace/BlankSpace";
@@ -127,6 +129,12 @@ const HeroSection = () => {
           </a>
           <a href="https://twitter.com/Thisisaarush" target="blank">
             <img className="social-icon" src={TwitterIcon} alt="social" />
+          </a>
+          <a href="https://www.instagram.com/thisisaarush/" target="blank">
+            <img className="social-icon" src={InstagramIcon} alt="social" />
+          </a>
+          <a href="https://www.behance.net/thisisaarush" target="blank">
+            <img className="social-icon" src={BehanceIcon} alt="social" />
           </a>
         </SocialContainer>
       </HeroSectionContainer>

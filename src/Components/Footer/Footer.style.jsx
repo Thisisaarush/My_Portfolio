@@ -32,7 +32,7 @@ export const FooterContainer = styled.div`
 
     .icons {
       .social-icon {
-        width: 55px;
+        width: 50px;
         background-color: white;
         padding: 0.5rem;
         border-radius: 50%;
@@ -51,6 +51,7 @@ export const FooterContainer = styled.div`
       left: 50%;
       transform: translateX(-50%);
       white-space: nowrap;
+      letter-spacing: 2px;
 
       .heart {
         color: red;
@@ -76,11 +77,15 @@ export const FooterContainer = styled.div`
 
       .icons {
         display: flex;
+        .social-icon {
+          width: 40px;
+          margin: 0.5rem;
+        }
       }
       .copyright {
         bottom: auto;
         bottom: 60px;
-        font-size: 14px;
+        letter-spacing: 1px;
       }
     }
     .main-logo {

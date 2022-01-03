@@ -25,9 +25,8 @@ const AboutMe = () => {
           <p className="about-content">
             I’m a Professional Web & Mobile Developer with UX Design Skills. I
             am Passionate about leveraging my diverse background to decipher
-            challenging problems and create deligtful experience. <br />
-            <br /> I develop websites using ReactJs, HTML5, CSS3, Javascript,
-            Nodejs. I have top skills in using design softwares like Figma,
+            challenging problems and create delightful experience. <br />
+            <br /> I build websites using HTML5, CSS3, Javascript, React, Nodejs. I have top skills in using design softwares like Figma,
             Adobe XD, Photoshop, Illustrator. <br />
             <br /> I always work towards achieving best results on each project
             i lay my hands on.
